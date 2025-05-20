@@ -39,7 +39,7 @@ func display(list *Node) {
 }
 
 func main() {
-	var haed *Node
+	var head *Node
 	head = nil
 	
 	fmt.Println("===== insert 5 data ====")
